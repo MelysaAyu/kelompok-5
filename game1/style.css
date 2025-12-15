@@ -1,0 +1,677 @@
+.mockup-game {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 100%;
+  min-width: 1440px;
+  min-height: 1024px;
+  position: relative;
+}
+
+.mockup-game .header {
+  position: absolute;
+  top: 0;
+  left: -1px;
+  width: 1444px;
+  height: 70px;
+  background-color: #000000;
+}
+
+.mockup-game .image {
+  position: absolute;
+  top: 6px;
+  left: 59px;
+  width: 55px;
+  height: 60px;
+  aspect-ratio: 0.92;
+  object-fit: cover;
+}
+
+.mockup-game .text-wrapper {
+  position: absolute;
+  top: 16px;
+  left: 627px;
+  width: 182px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bfbfb9;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.mockup-game .line {
+  position: absolute;
+  top: 52px;
+  left: 781px;
+  width: 84px;
+  height: 2px;
+}
+
+.mockup-game .div {
+  position: absolute;
+  top: 16px;
+  left: 777px;
+  width: 182px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bfbfb9;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.mockup-game .img {
+  position: absolute;
+  top: 69px;
+  left: 0;
+  width: 1440px;
+  height: 954px;
+  aspect-ratio: 1.53;
+}
+
+.mockup-game .image-2 {
+  position: absolute;
+  top: 104px;
+  left: 442px;
+  width: 974px;
+  height: 544px;
+  aspect-ratio: 0.56;
+}
+
+.mockup-game .image-3 {
+  position: absolute;
+  top: 212px;
+  left: 799px;
+  width: 120px;
+  height: 180px;
+  aspect-ratio: 0.67;
+  object-fit: cover;
+}
+
+.mockup-game .image-4 {
+  position: absolute;
+  top: 402px;
+  left: 799px;
+  width: 120px;
+  height: 180px;
+  aspect-ratio: 0.67;
+  object-fit: cover;
+}
+
+.mockup-game .image-5 {
+  position: absolute;
+  top: 402px;
+  left: 950px;
+  width: 120px;
+  height: 180px;
+  aspect-ratio: 0.67;
+  object-fit: cover;
+}
+
+.mockup-game .image-6 {
+  position: absolute;
+  top: 212px;
+  left: 950px;
+  width: 120px;
+  height: 180px;
+  aspect-ratio: 0.67;
+  object-fit: cover;
+}
+
+.mockup-game .image-7 {
+  position: absolute;
+  top: 170px;
+  left: 8px;
+  width: 471px;
+  height: 360px;
+  aspect-ratio: 1.31;
+  object-fit: cover;
+}
+
+.mockup-game .text-wrapper-2 {
+  position: absolute;
+  top: 237px;
+  left: 161px;
+  width: 166px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bfbfb9;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.mockup-game .text-wrapper-3 {
+  top: 327px;
+  left: 373px;
+  width: 45px;
+  font-size: 25px;
+  position: absolute;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bfbfb9;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.mockup-game .text-wrapper-4 {
+  position: absolute;
+  top: 323px;
+  left: 118px;
+  width: 36px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bfbfb9;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.mockup-game .image-8 {
+  position: absolute;
+  top: 88px;
+  left: 749px;
+  width: 389px;
+  height: 99px;
+  aspect-ratio: 3.92;
+}
+
+.mockup-game .text-wrapper-5 {
+  position: absolute;
+  top: 371px;
+  left: 42px;
+  width: 166px;
+  font-family: "Cinzel-Bold", Helvetica;
+  font-weight: 700;
+  color: #bfbfb9;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.mockup-game .text-wrapper-6 {
+  position: absolute;
+  top: 120px;
+  left: 865px;
+  width: 166px;
+  font-family: "Cinzel-Bold", Helvetica;
+  font-weight: 700;
+  color: #f5e08a;
+  font-size: 28px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.mockup-game .image-9 {
+  position: absolute;
+  top: 307px;
+  left: 92px;
+  width: 64px;
+  height: 64px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.mockup-game .rectangle {
+  position: absolute;
+  top: 338px;
+  left: 167px;
+  width: 191px;
+  height: 9px;
+  background-color: #e5dfcd;
+  border-radius: 20px;
+  border: 2px solid;
+  border-color: #b66815;
+}
+
+.mockup-game .rectangle-2 {
+  position: absolute;
+  top: 419px;
+  left: 208px;
+  width: 64px;
+  height: 32px;
+  background-color: #3b3b3b;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #51504c;
+}
+
+.mockup-game .text-wrapper-7 {
+  top: 425px;
+  left: 221px;
+  width: 42px;
+  font-size: 15px;
+  position: absolute;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bfbfb9;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.mockup-game .text-wrapper-8 {
+  position: absolute;
+  top: 17px;
+  left: 916px;
+  width: 95px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bfbfb9;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+/* Inject original globals.css styles here */
+
+.mockup-game {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 100%;
+  min-width: 1440px;
+  min-height: 1024px;
+  position: relative;
+}
+
+.mockup-game .header {
+  position: absolute;
+  top: 0;
+  left: -1px;
+  width: 1444px;
+  height: 70px;
+  background-color: #000000;
+}
+
+.mockup-game .image {
+  position: absolute;
+  top: 6px;
+  left: 59px;
+  width: 55px;
+  height: 60px;
+  aspect-ratio: 0.92;
+  object-fit: cover;
+}
+
+.mockup-game .navigation {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0;
+}
+
+.mockup-game .text-wrapper {
+  position: absolute;
+  top: 16px;
+  left: 627px;
+  width: 182px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bfbfb9;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: none;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.mockup-game .text-wrapper:hover,
+.mockup-game .text-wrapper:focus {
+  color: #ffffff;
+}
+
+.mockup-game .div {
+  position: absolute;
+  top: 16px;
+  left: 777px;
+  width: 182px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bfbfb9;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+  text-decoration: none;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.mockup-game .div:hover,
+.mockup-game .div:focus {
+  color: #ffffff;
+}
+
+.mockup-game .line {
+  position: absolute;
+  top: 36px;
+  left: 4px;
+  width: 84px;
+  height: 2px;
+}
+
+.mockup-game .text-wrapper-8 {
+  position: absolute;
+  top: 17px;
+  left: 916px;
+  width: 95px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bfbfb9;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+  text-decoration: none;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.mockup-game .text-wrapper-8:hover,
+.mockup-game .text-wrapper-8:focus {
+  color: #ffffff;
+}
+
+.mockup-game .img {
+  position: absolute;
+  top: 69px;
+  left: 0;
+  width: 1440px;
+  height: 954px;
+  aspect-ratio: 1.53;
+}
+
+.mockup-game .game-area {
+  position: absolute;
+  top: 104px;
+  left: 442px;
+  width: 974px;
+  height: 544px;
+}
+
+.mockup-game .image-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 974px;
+  height: 544px;
+  aspect-ratio: 0.56;
+}
+
+.mockup-game .level-indicator {
+  position: absolute;
+  top: -16px;
+  left: 307px;
+  width: 389px;
+  height: 99px;
+}
+
+.mockup-game .image-8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 389px;
+  height: 99px;
+  aspect-ratio: 3.92;
+}
+
+.mockup-game .text-wrapper-6 {
+  position: absolute;
+  top: 32px;
+  left: 116px;
+  width: 166px;
+  font-family: "Cinzel-Bold", Helvetica;
+  font-weight: 700;
+  color: #f5e08a;
+  font-size: 28px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.mockup-game .card-grid {
+  position: absolute;
+  top: 108px;
+  left: 357px;
+  width: 271px;
+  height: 370px;
+  display: grid;
+  grid-template-columns: repeat(2, 120px);
+  grid-template-rows: repeat(2, 180px);
+  gap: 10px 31px;
+}
+
+.mockup-game .card-button {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+  width: 120px;
+  height: 180px;
+}
+
+.mockup-game .card-button:hover {
+  transform: scale(1.05);
+}
+
+.mockup-game .card-button:active {
+  transform: scale(0.95);
+}
+
+.mockup-game .card-button:focus {
+  outline: 2px solid #f5e08a;
+  outline-offset: 4px;
+}
+
+.mockup-game .card-top-left {
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.mockup-game .card-top-right {
+  grid-column: 2;
+  grid-row: 1;
+}
+
+.mockup-game .card-bottom-left {
+  grid-column: 1;
+  grid-row: 2;
+}
+
+.mockup-game .card-bottom-right {
+  grid-column: 2;
+  grid-row: 2;
+}
+
+.mockup-game .image-3 {
+  width: 120px;
+  height: 180px;
+  aspect-ratio: 0.67;
+  object-fit: cover;
+  display: block;
+}
+
+.mockup-game .image-4 {
+  width: 120px;
+  height: 180px;
+  aspect-ratio: 0.67;
+  object-fit: cover;
+  display: block;
+}
+
+.mockup-game .image-5 {
+  width: 120px;
+  height: 180px;
+  aspect-ratio: 0.67;
+  object-fit: cover;
+  display: block;
+}
+
+.mockup-game .image-6 {
+  width: 120px;
+  height: 180px;
+  aspect-ratio: 0.67;
+  object-fit: cover;
+  display: block;
+}
+
+.mockup-game .scoreboard {
+  position: absolute;
+  top: 170px;
+  left: 8px;
+  width: 471px;
+  height: 360px;
+}
+
+.mockup-game .image-7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 471px;
+  height: 360px;
+  aspect-ratio: 1.31;
+  object-fit: cover;
+}
+
+.mockup-game .text-wrapper-2 {
+  position: absolute;
+  top: 67px;
+  left: 153px;
+  width: 166px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bfbfb9;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.mockup-game .score-display {
+  position: absolute;
+  top: 137px;
+  left: 84px;
+  width: 334px;
+  height: 64px;
+}
+
+.mockup-game .image-9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 64px;
+  height: 64px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.mockup-game .text-wrapper-4 {
+  position: absolute;
+  top: 16px;
+  left: 26px;
+  width: 36px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bfbfb9;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.mockup-game .progress-bar-container {
+  position: absolute;
+  top: 31px;
+  left: 83px;
+  width: 191px;
+  height: 9px;
+}
+
+.mockup-game .rectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 191px;
+  height: 9px;
+  background-color: #e5dfcd;
+  border-radius: 20px;
+  border: 2px solid;
+  border-color: #b66815;
+}
+
+.mockup-game .text-wrapper-3 {
+  position: absolute;
+  top: 20px;
+  left: 289px;
+  width: 45px;
+  font-size: 25px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bfbfb9;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.mockup-game .player-info {
+  position: absolute;
+  top: 201px;
+  left: 34px;
+  width: 166px;
+  height: 20px;
+}
+
+.mockup-game .text-wrapper-5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 166px;
+  font-family: "Cinzel-Bold", Helvetica;
+  font-weight: 700;
+  color: #bfbfb9;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin: 0;
+}
+
+.mockup-game .timer-container {
+  position: absolute;
+  top: 249px;
+  left: 200px;
+  width: 64px;
+  height: 32px;
+}
+
+.mockup-game .rectangle-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 64px;
+  height: 32px;
+  background-color: #3b3b3b;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #51504c;
+}
+
+.mockup-game .text-wrapper-7 {
+  position: absolute;
+  top: 6px;
+  left: 13px;
+  width: 42px;
+  font-size: 15px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bfbfb9;
+  letter-spacing: 0;
+  line-height: normal;
+  font-style: normal;
+}

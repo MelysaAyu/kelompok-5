@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+  <title>Harry Potter App</title>
+</head>
+<body>
+  <div class="container">
+    <button onclick="window.location.href='signin.php'">JELAJAHI</button>
+  </div>
+</body>
+</html>

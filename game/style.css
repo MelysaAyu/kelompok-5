@@ -1,0 +1,300 @@
+.mockup-game {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 100%;
+  min-width: 1440px;
+  min-height: 1024px;
+  position: relative;
+}
+
+.mockup-game .header {
+  position: absolute;
+  top: 0;
+  left: -1px;
+  width: 1444px;
+  height: 70px;
+  background-color: #000000;
+}
+
+.mockup-game .image {
+  position: absolute;
+  top: 6px;
+  left: 59px;
+  width: 55px;
+  height: 60px;
+  aspect-ratio: 0.92;
+  object-fit: cover;
+}
+
+.mockup-game .text-wrapper {
+  position: absolute;
+  top: 16px;
+  left: 627px;
+  width: 182px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bfbfb9;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.mockup-game .line {
+  position: absolute;
+  top: 52px;
+  left: 781px;
+  width: 84px;
+  height: 2px;
+}
+
+.mockup-game .div {
+  position: absolute;
+  top: 16px;
+  left: 777px;
+  width: 182px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bfbfb9;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.mockup-game .img {
+  position: absolute;
+  top: 69px;
+  left: 0;
+  width: 1440px;
+  height: 955px;
+  aspect-ratio: 1.58;
+}
+
+
+.mockup-game .image-2 {
+  position: absolute;
+  top: 123px;
+  left: 427px;
+  width: 588px;
+  height: 177px;
+  aspect-ratio: 3.33;
+}
+
+.mockup-game .image-3 {
+  position: absolute;
+  top: 462px;
+  left: 526px;
+  width: 370px;
+  height: 143px;
+  aspect-ratio: 2.59;
+}
+
+.mockup-game .text-wrapper-2 {
+  position: absolute;
+  top: 512px;
+  left: 661px;
+  width: 115px;
+  font-family: "Cinzel-Bold", Helvetica;
+  font-weight: 700;
+  color: #381416;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.mockup-game {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 100%;
+  min-width: 1440px;
+  min-height: 1024px;
+  position: relative;
+}
+
+.mockup-game .header {
+  position: absolute;
+  top: 0;
+  left: -1px;
+  width: 1444px;
+  height: 70px;
+  background-color: #000000;
+  display: flex;
+  align-items: center;
+  z-index: 10;
+}
+
+.mockup-game .image {
+  position: absolute;
+  top: 6px;
+  left: 59px;
+  width: 55px;
+  height: 60px;
+  aspect-ratio: 0.92;
+  object-fit: cover;
+}
+
+.mockup-game .nav {
+  position: absolute;
+  top: 0;
+  left: 627px;
+  display: flex;
+  align-items: center;
+  height: 70px;
+  gap: 0;
+}
+
+.mockup-game .text-wrapper {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 182px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bfbfb9;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: none;
+  display: inline-block;
+  padding: 16px 0;
+  transition: color 0.3s ease;
+}
+
+.mockup-game .text-wrapper:hover,
+.mockup-game .text-wrapper:focus {
+  color: #ffffff;
+  outline: 2px solid #4a90e2;
+  outline-offset: 2px;
+}
+
+.mockup-game .div {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 182px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bfbfb9;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+  text-decoration: none;
+  display: inline-block;
+  padding: 16px 0;
+  transition: color 0.3s ease;
+}
+
+.mockup-game .div:hover,
+.mockup-game .div:focus {
+  color: #ffffff;
+  outline: 2px solid #4a90e2;
+  outline-offset: 2px;
+}
+
+.mockup-game .line {
+  position: absolute;
+  top: 52px;
+  left: 777px;
+  width: 84px;
+  height: 2px;
+  background-color: #bfbfb9;
+  border: none;
+  display: block;
+}
+
+.mockup-game .hero-section {
+  position: relative;
+  width: 100%;
+  height: calc(100vh - 70px);
+  min-height: 954px;
+}
+
+.mockup-game .img {
+  position: absolute;
+  top: 69px;
+  left: 0;
+  width: 1440px;
+  height: 955px;
+  aspect-ratio: 1.58;
+  object-fit: cover;
+}
+
+.mockup-game .rectangle {
+  position: absolute;
+  top: 312px;
+  left: -26px;
+  width: 1466px;
+  height: 712px;
+  transform: rotate(180deg);
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 1) 12%,
+    rgba(0, 0, 0, 0.32) 68%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  pointer-events: none;
+}
+
+.mockup-game .image-2 {
+  position: absolute;
+  top: 123px;
+  left: 427px;
+  width: 588px;
+  height: 177px;
+  aspect-ratio: 3.33;
+  object-fit: contain;
+}
+
+.mockup-game .play-button {
+  position: absolute;
+  top: 462px;
+  left: 526px;
+  width: 370px;
+  height: 143px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  cursor: pointer;
+  transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+.mockup-game .play-button:hover {
+  transform: scale(1.05);
+  filter: brightness(1.1);
+}
+
+.mockup-game .play-button:focus {
+  outline: 3px solid #4a90e2;
+  outline-offset: 4px;
+}
+
+.mockup-game .play-button:active {
+  transform: scale(0.98);
+}
+
+.mockup-game .image-3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 370px;
+  height: 143px;
+  aspect-ratio: 2.59;
+  object-fit: contain;
+  pointer-events: none;
+}
+
+.mockup-game .text-wrapper-2 {
+  position: absolute;
+  top: 50px;
+  left: 135px;
+  width: 115px;
+  font-family: "Cinzel-Bold", Helvetica;
+  font-weight: 700;
+  color: #381416;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  pointer-events: none;
+  z-index: 1;
+}

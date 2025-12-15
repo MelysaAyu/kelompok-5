@@ -1,0 +1,268 @@
+.mockup-road-map {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 100%;
+  min-width: 1440px;
+  min-height: 1024px;
+  position: relative;
+}
+
+.mockup-road-map .header {
+  position: absolute;
+  top: 0;
+  left: -1px;
+  width: 1444px;
+  height: 70px;
+  background-color: #000000;
+}
+
+.mockup-road-map .image {
+  position: absolute;
+  top: 6px;
+  left: 59px;
+  width: 55px;
+  height: 60px;
+  aspect-ratio: 0.92;
+  object-fit: cover;
+}
+
+.mockup-road-map .text-wrapper {
+  position: absolute;
+  top: 16px;
+  left: 627px;
+  width: 182px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bfbfb9;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.mockup-road-map .line {
+  position: absolute;
+  top: 52px;
+  left: 781px;
+  width: 84px;
+  height: 2px;
+}
+
+.mockup-road-map .div {
+  position: absolute;
+  top: 16px;
+  left: 777px;
+  width: 182px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bfbfb9;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.mockup-road-map .img {
+  position: absolute;
+  top: 67px;
+  left: 0;
+  width: 1440px;
+  height: 957px;
+  aspect-ratio: 1.5;
+}
+
+.mockup-road-map .image-2 {
+  position: absolute;
+  top: 262px;
+  left: 389px;
+  width: 302px;
+  height: 262px;
+  aspect-ratio: 2.32;
+  object-fit: cover;
+}
+
+.mockup-road-map .image-3 {
+  position: absolute;
+  top: 412px;
+  left: 673px;
+  width: 302px;
+  height: 262px;
+  aspect-ratio: 2.32;
+  object-fit: cover;
+}
+
+.mockup-road-map .ellipse {
+  top: 416px;
+  left: 673px;
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  background-color: #afa59b;
+  border-radius: 17.5px;
+  border: 1px solid;
+  border-color: #583c1f;
+}
+
+.mockup-road-map .ellipse-2 {
+  top: 583px;
+  left: 959px;
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  background-color: #afa59b;
+  border-radius: 17.5px;
+  border: 1px solid;
+  border-color: #583c1f;
+}
+
+.mockup-road-map .ellipse-3 {
+  top: 894px;
+  left: 673px;
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  background-color: #afa59b;
+  border-radius: 17.5px;
+  border: 1px solid;
+  border-color: #583c1f;
+}
+
+.mockup-road-map .text-wrapper-2 {
+  position: absolute;
+  top: 420px;
+  left: 687px;
+  width: 24px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #583c1f;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.mockup-road-map .text-wrapper-3 {
+  top: 587px;
+  left: 971px;
+  position: absolute;
+  width: 24px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #583c1f;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.mockup-road-map .text-wrapper-4 {
+  top: 897px;
+  left: 685px;
+  position: absolute;
+  width: 24px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #583c1f;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.mockup-road-map .image-4 {
+  position: absolute;
+  top: 618px;
+  left: 656px;
+  width: 375px;
+  height: 304px;
+  aspect-ratio: 1.5;
+  object-fit: cover;
+}
+
+.mockup-road-map .image-5 {
+  position: absolute;
+  top: 922px;
+  left: 353px;
+  width: 375px;
+  height: 102px;
+  aspect-ratio: 1.5;
+  object-fit: cover;
+}
+
+.mockup-road-map .image-6 {
+  position: absolute;
+  top: 378px;
+  left: 668px;
+  width: 46px;
+  height: 38px;
+  aspect-ratio: 1.2;
+  object-fit: cover;
+}
+
+.mockup-road-map .mingcute-lock-fill {
+  position: absolute;
+  top: 892px;
+  left: 673px;
+  width: 34px;
+  height: 34px;
+  aspect-ratio: 1;
+}
+
+.mockup-road-map .image-7 {
+  position: absolute;
+  top: 543px;
+  left: 953px;
+  width: 46px;
+  height: 38px;
+  aspect-ratio: 1.2;
+  object-fit: cover;
+}
+
+.mockup-road-map .image-8 {
+  position: absolute;
+  top: 856px;
+  left: 665px;
+  width: 46px;
+  height: 38px;
+  aspect-ratio: 1.2;
+  object-fit: cover;
+}
+
+.mockup-road-map .mingcute-lock-fill-2 {
+  position: absolute;
+  top: 581px;
+  left: 959px;
+  width: 34px;
+  height: 34px;
+  aspect-ratio: 1;
+}
+
+.mockup-road-map .image-9 {
+  position: absolute;
+  top: 173px;
+  left: 358px;
+  width: 126px;
+  height: 121px;
+  aspect-ratio: 1.04;
+  object-fit: cover;
+}
+
+.mockup-road-map .image-10 {
+  position: absolute;
+  top: 607px;
+  left: 583px;
+  width: 65px;
+  height: 91px;
+  aspect-ratio: 0.71;
+  object-fit: cover;
+}
+
+.mockup-road-map .text-wrapper-5 {
+  position: absolute;
+  top: 17px;
+  left: 916px;
+  width: 95px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bfbfb9;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}

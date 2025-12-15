@@ -1,0 +1,614 @@
+.mockup-QUIZ {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 100%;
+  min-width: 1440px;
+  min-height: 1024px;
+  position: relative;
+}
+
+.mockup-QUIZ .header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 70px;
+}
+
+.mockup-QUIZ .image {
+  top: 6px;
+  left: 59px;
+  width: 55px;
+  height: 60px;
+  aspect-ratio: 0.92;
+  position: absolute;
+  object-fit: cover;
+}
+
+.mockup-QUIZ .HOME {
+  position: absolute;
+  top: 23px;
+  left: 629px;
+  width: 91px;
+  height: 22px;
+}
+
+.mockup-QUIZ .line {
+  position: absolute;
+  top: 52px;
+  left: 918px;
+  width: 75px;
+  height: 2px;
+}
+
+.mockup-QUIZ .GAME {
+  position: absolute;
+  top: 23px;
+  left: 779px;
+  width: 87px;
+  height: 22px;
+}
+
+.mockup-QUIZ .text-wrapper {
+  position: absolute;
+  top: 17px;
+  left: 916px;
+  width: 95px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bfbfb9;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.mockup-QUIZ .img {
+  top: 66px;
+  left: 0;
+  width: 1440px;
+  height: 958px;
+  aspect-ratio: 1.14;
+  position: absolute;
+  object-fit: cover;
+}
+
+.mockup-QUIZ .rectangle {
+  position: absolute;
+  top: 17px;
+  left: -16px;
+  width: 1474px;
+  height: 1007px;
+  transform: rotate(180deg);
+  background: linear-gradient(
+    180deg,
+    rgba(28, 17, 15, 1) 0%,
+    rgba(0, 0, 0, 0.32) 68%,
+    rgba(0, 0, 0, 0) 100%
+  );
+}
+
+.mockup-QUIZ .div {
+  position: absolute;
+  top: 175px;
+  left: 176px;
+  width: 1147px;
+  height: 665px;
+  background-color: #805530;
+  border-radius: 20px;
+  border: 4px solid;
+  border-color: #bb955b;
+}
+
+.mockup-QUIZ .rectangle-2 {
+  position: absolute;
+  top: 404px;
+  left: 257px;
+  width: 474px;
+  height: 136px;
+  background-color: #805530;
+  border-radius: 20px;
+  border: 4px solid;
+  border-color: #bb955b;
+}
+
+.mockup-QUIZ .rectangle-3 {
+  position: absolute;
+  top: 566px;
+  left: 257px;
+  width: 474px;
+  height: 136px;
+  background-color: #805530;
+  border-radius: 20px;
+  border: 4px solid;
+  border-color: #bb955b;
+}
+
+.mockup-QUIZ .rectangle-4 {
+  position: absolute;
+  top: 404px;
+  left: 766px;
+  width: 474px;
+  height: 136px;
+  background-color: #805530;
+  border-radius: 20px;
+  border: 4px solid;
+  border-color: #bb955b;
+}
+
+.mockup-QUIZ .rectangle-5 {
+  position: absolute;
+  top: 568px;
+  left: 765px;
+  width: 474px;
+  height: 136px;
+  background-color: #805530;
+  border-radius: 20px;
+  border: 4px solid;
+  border-color: #bb955b;
+}
+
+.mockup-QUIZ .image-2 {
+  top: 197px;
+  left: 1167px;
+  width: 131px;
+  height: 125px;
+  aspect-ratio: 1.05;
+  position: absolute;
+  object-fit: cover;
+}
+
+.mockup-QUIZ .image-3 {
+  top: 683px;
+  left: 1173px;
+  width: 125px;
+  height: 131px;
+  aspect-ratio: 1.05;
+  position: absolute;
+  object-fit: cover;
+}
+
+.mockup-QUIZ .image-4 {
+  top: 686px;
+  left: 203px;
+  width: 131px;
+  height: 125px;
+  aspect-ratio: 1.05;
+  position: absolute;
+  object-fit: cover;
+}
+
+.mockup-QUIZ .image-5 {
+  top: 200px;
+  left: 204px;
+  width: 125px;
+  height: 131px;
+  aspect-ratio: 1.05;
+  position: absolute;
+  object-fit: cover;
+}
+
+.mockup-QUIZ .p {
+  position: absolute;
+  top: 260px;
+  left: 383px;
+  width: 734px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bcbcb6;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.mockup-QUIZ .text-wrapper-2 {
+  position: absolute;
+  top: 436px;
+  left: 320px;
+  width: 347px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bcbcb6;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.mockup-QUIZ .text-wrapper-3 {
+  position: absolute;
+  top: 436px;
+  left: 813px;
+  width: 373px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bcbcb6;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.mockup-QUIZ .text-wrapper-4 {
+  position: absolute;
+  top: 599px;
+  left: 829px;
+  width: 338px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bcbcb6;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.mockup-QUIZ .text-wrapper-5 {
+  position: absolute;
+  top: 599px;
+  left: 326px;
+  width: 320px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bcbcb6;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+/* Original CSS code should be injected here */
+
+.mockup-QUIZ {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 100%;
+  min-width: 1440px;
+  min-height: 1024px;
+  position: relative;
+}
+
+.mockup-QUIZ .header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 70px;
+}
+
+.mockup-QUIZ .header-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 70px;
+}
+
+.mockup-QUIZ .logo {
+  top: 6px;
+  left: 59px;
+  width: 55px;
+  height: 60px;
+  aspect-ratio: 0.92;
+  position: absolute;
+  object-fit: cover;
+}
+
+.mockup-QUIZ .navigation {
+  position: absolute;
+  top: 17px;
+  left: 629px;
+  display: flex;
+  align-items: center;
+  gap: 59px;
+}
+
+.mockup-QUIZ .nav-link {
+  position: relative;
+  display: inline-block;
+}
+
+.mockup-QUIZ .HOME {
+  width: 91px;
+  height: 22px;
+  display: block;
+}
+
+.mockup-QUIZ .GAME {
+  width: 87px;
+  height: 22px;
+  display: block;
+}
+
+.mockup-QUIZ .nav-link-active {
+  position: relative;
+}
+
+.mockup-QUIZ .line {
+  position: absolute;
+  bottom: -12px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 75px;
+  height: 2px;
+}
+
+.mockup-QUIZ .text-wrapper {
+  width: 95px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bfbfb9;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+  display: block;
+}
+
+.mockup-QUIZ .background-container {
+  position: absolute;
+  top: 66px;
+  left: 0;
+  width: 1440px;
+  height: 958px;
+}
+
+.mockup-QUIZ .img {
+  width: 1440px;
+  height: 958px;
+  aspect-ratio: 1.14;
+  position: absolute;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.mockup-QUIZ .rectangle {
+  position: absolute;
+  top: -49px;
+  left: -16px;
+  width: 1474px;
+  height: 1007px;
+  transform: rotate(180deg);
+  background: linear-gradient(
+    180deg,
+    rgba(28, 17, 15, 1) 0%,
+    rgba(0, 0, 0, 0.32) 68%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  pointer-events: none;
+}
+
+.mockup-QUIZ .quiz-container {
+  position: absolute;
+  top: 175px;
+  left: 176px;
+  width: 1147px;
+  height: 665px;
+}
+
+.mockup-QUIZ .div {
+  width: 100%;
+  height: 100%;
+  background-color: #805530;
+  border-radius: 20px;
+  border: 4px solid;
+  border-color: #bb955b;
+  position: relative;
+}
+
+.mockup-QUIZ .quiz-form {
+  position: absolute;
+  top: 229px;
+  left: 81px;
+  width: 984px;
+  height: 298px;
+}
+
+.mockup-QUIZ .quiz-options {
+  border: none;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.mockup-QUIZ .quiz-option {
+  position: absolute;
+}
+
+.mockup-QUIZ .quiz-option:nth-child(1) {
+  top: 0;
+  left: 0;
+}
+
+.mockup-QUIZ .quiz-option:nth-child(2) {
+  top: 0;
+  left: 509px;
+}
+
+.mockup-QUIZ .quiz-option:nth-child(3) {
+  top: 162px;
+  left: 0;
+}
+
+.mockup-QUIZ .quiz-option:nth-child(4) {
+  top: 164px;
+  left: 508px;
+}
+
+.mockup-QUIZ .quiz-radio {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.mockup-QUIZ .quiz-label {
+  width: 474px;
+  height: 136px;
+  background-color: #805530;
+  border-radius: 20px;
+  border: 4px solid;
+  border-color: #bb955b;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  padding: 20px;
+}
+
+.mockup-QUIZ .quiz-label:hover {
+  background-color: #8f6038;
+  border-color: #d4a866;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.mockup-QUIZ .quiz-radio:focus + .quiz-label {
+  outline: 2px solid #4a90e2;
+  outline-offset: 2px;
+}
+
+.mockup-QUIZ .quiz-radio:checked + .quiz-label {
+  background-color: #9a7040;
+  border-color: #e6c080;
+  box-shadow: inset 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.mockup-QUIZ .rectangle-2 {
+  position: static;
+}
+
+.mockup-QUIZ .rectangle-3 {
+  position: static;
+}
+
+.mockup-QUIZ .rectangle-4 {
+  position: static;
+}
+
+.mockup-QUIZ .rectangle-5 {
+  position: static;
+}
+
+.mockup-QUIZ .image-2 {
+  top: 22px;
+  right: 25px;
+  width: 131px;
+  height: 125px;
+  aspect-ratio: 1.05;
+  position: absolute;
+  object-fit: cover;
+  pointer-events: none;
+}
+
+.mockup-QUIZ .image-3 {
+  bottom: 26px;
+  right: 19px;
+  width: 125px;
+  height: 131px;
+  aspect-ratio: 1.05;
+  position: absolute;
+  object-fit: cover;
+  pointer-events: none;
+}
+
+.mockup-QUIZ .image-4 {
+  bottom: 29px;
+  left: 27px;
+  width: 131px;
+  height: 125px;
+  aspect-ratio: 1.05;
+  position: absolute;
+  object-fit: cover;
+  pointer-events: none;
+}
+
+.mockup-QUIZ .image-5 {
+  top: 25px;
+  left: 28px;
+  width: 125px;
+  height: 131px;
+  aspect-ratio: 1.05;
+  position: absolute;
+  object-fit: cover;
+  pointer-events: none;
+}
+
+.mockup-QUIZ .p {
+  position: absolute;
+  top: 85px;
+  left: 207px;
+  width: 734px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bcbcb6;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin: 0;
+}
+
+.mockup-QUIZ .text-wrapper-2 {
+  width: 347px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bcbcb6;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  display: block;
+}
+
+.mockup-QUIZ .text-wrapper-3 {
+  width: 373px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bcbcb6;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  display: block;
+}
+
+.mockup-QUIZ .text-wrapper-4 {
+  width: 338px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bcbcb6;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  display: block;
+}
+
+.mockup-QUIZ .text-wrapper-5 {
+  width: 320px;
+  font-family: "Cinzel-Regular", Helvetica;
+  font-weight: 400;
+  color: #bcbcb6;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  display: block;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
